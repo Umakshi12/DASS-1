@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DASS</string>
+    <string name="select_language">Select Language / भाषा चुने</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="english">English</string>
+    <string name="Continue">Continue</string>
+</resources>
